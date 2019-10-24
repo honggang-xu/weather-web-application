@@ -1,0 +1,45 @@
+ul {
+	list-style-type: none;
+}
+
+#mapid {
+	height: 360px;
+	width: 540px;
+}
+
+#prompt {
+	display: inline-block;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+
+#townName {
+	margin-left: 50px;
+}
+
+#sun {
+	background-image: linear-gradient(-90deg, red, yellow);
+	margin-top: 20px;
+}
+
+#weather {
+	background-image: linear-gradient(-90deg, lightblue, white);
+	margin-top: 20px;
+}
+
+#search {
+	visibility: hidden;
+	margin-left: 50px;
+}
+
+.float-left {
+	float: left;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.clear {
+	clear: left;
+}
